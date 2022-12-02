@@ -3,7 +3,10 @@
 Provides an Object-Relational Mapping (ORM) architecture back-end for an e-commerce website. 
 
 <h3>Installation</h3>
-Install the application by cloning the repository, then in the terminal sign into mysql by typing in the terminal "mysql -u root -p. Then type in your password. Then type on a new line Source db/schema.sql. After that type quit; in the terminal. after you have quit out type in the new terminal line node seeds/index.js  which will seed your database. 
+Install the application by cloning the repository, then in the terminal sign into mysql by typing in the terminal "mysql -u root -p. 
+Then type in your password. 
+Then type on a new line Source db/schema.sql. After that type quit; in the terminal. 
+After you have quit out type in the new terminal line node seeds/index.js  which will seed your database. 
 
 <h3>Usage</h3>
 In the terminal type in Npm start or node server.js 
